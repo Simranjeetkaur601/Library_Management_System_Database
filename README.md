@@ -22,6 +22,6 @@ Tables:
 8.	Branches: Stores information about library branches, including branch ID, name, address, and phone number.
 9.	Staff: Contains details about library staff members, including staff ID, name, role, branch assignment, and contact number.
 
-
-
+## ERD Diagram
+[ERD Diagram]("C:\Users\simra\Desktop\SQL assignment\ERD.png")
 
