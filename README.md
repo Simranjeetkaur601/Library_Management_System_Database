@@ -1,4 +1,5 @@
 Library Management System Database
+
 A Library Management System (LMS) is a software application or database system designed to efficiently manage and organize library resources, services, and operations. It automates various library tasks, such as cataloging books, tracking borrowing and returning of materials, managing user information, handling reservations and requests, generating reports, and facilitating administrative functions.
 Key features of a Library Management System typically include:
 1.	Cataloging and Inventory Management: Maintaining a centralized database of library materials, including books, periodicals, multimedia resources, and digital content. This involves recording details such as title, author, genre, publication information, availability status, and location within the library.
