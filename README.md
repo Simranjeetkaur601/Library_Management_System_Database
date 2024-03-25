@@ -23,5 +23,5 @@ Key features of a Library Management System typically include:
 9.	Staff: Contains details about library staff members, including staff ID, name, role, branch assignment, and contact number.
 
 ## ERD Diagram
-![ERD Diagram](path/to/ERD.png)
 
+![ERD](https://github.com/Simranjeetkaur601/Library_Management_System_Database/assets/162337355/8af169f9-2182-434a-b69c-61197b42e82b)
